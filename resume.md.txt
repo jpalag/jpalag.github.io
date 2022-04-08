@@ -13,7 +13,8 @@ Experienced fourth-year university student pursuing a Bachelor of Arts in Geogra
 # Work Experience
 
 ## City of Seattle (Seattle, Washington)
-Local government administration leading the city to environmental stewardship, green building, and social justice.
+![](https://www.nationsonline.org/gallery/USA/Seattle-Space-Needle.jpg)
+> Local government administration leading the city to environmental stewardship, green building, and social justice.
 
 ***GIS Software Development Intern*** (September 2021 - Present)
 
@@ -25,7 +26,7 @@ As a software development intern for the city of Seattle, I performed a variety 
 - Cleaned over a million lines of Business License data and geocoded addresses onto ArcGIS basemaps.
 
 ## Costco Wholesale (Silverdale, Washington)
-Membership-only-big-box retail store providing name brand products in bulk quantities.
+> Membership-only-big-box retail store providing name brand products in bulk quantities.
 
 ***Front-End Assistant*** (June 2019 - Present)
 
@@ -39,8 +40,10 @@ Supported customers to complete purchases, locate items, and join reward program
 
 # Education
 
+![University of Washington](https://az589735.vo.msecnd.net/images/profilepics/1023567/02.jpg)
+
 ## University of Washington (Seattle, Washington)
-The University of Washington is a large public research university. Highly accredited with a world-class medical center and extensive continuing education programs.
+> The University of Washington is a large public research university. Highly accredited with a world-class medical center and extensive continuing education programs.
 
 ***Bachelor of Arts in Geography with Data Science*** (September 2018 - June 2022)
 
