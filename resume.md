@@ -4,7 +4,7 @@ jpalag@uw.edu
 
 On Handshake: Jasmine Palaganas
 
-On LinkedIn: https://www.linkedin.com/in/jasmine-palaganas-12877b229/
+[LinkedIn Profile](https://www.linkedin.com/in/jasmine-palaganas-12877b229/)
 
 # Summary
 
@@ -16,7 +16,7 @@ Experienced fourth-year university student pursuing a Bachelor of Arts in Geogra
 ![](https://www.nationsonline.org/gallery/USA/Seattle-Space-Needle.jpg)
 > Local government administration leading the city to environmental stewardship, green building, and social justice.
 
-Website: http://www.seattle.gov/
+[City of Seattle Official Site](http://www.seattle.gov/)
 
 ***GIS Software Development Intern*** (September 2021 - Present)
 
@@ -55,4 +55,4 @@ Fourth-year student taking extensive coursework in Geography, Computer Science, 
 - Member of University of Washington's Husky Tennis Club Team
 - Dean's List Spring & Fall 2019, all of 2020, 2021, and 2022.
 
-University of Washington Official Website: https://www.washington.edu/
+[University of Washington Official Website](https://www.washington.edu/)
