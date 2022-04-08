@@ -16,6 +16,8 @@ Experienced fourth-year university student pursuing a Bachelor of Arts in Geogra
 ![](https://www.nationsonline.org/gallery/USA/Seattle-Space-Needle.jpg)
 > Local government administration leading the city to environmental stewardship, green building, and social justice.
 
+Website: http://www.seattle.gov/
+
 ***GIS Software Development Intern*** (September 2021 - Present)
 
 As a software development intern for the city of Seattle, I performed a variety of data management, front-end development, and mapping tasks to maintain and optimize GIS databases.
@@ -53,5 +55,4 @@ Fourth-year student taking extensive coursework in Geography, Computer Science, 
 - Member of University of Washington's Husky Tennis Club Team
 - Dean's List Spring & Fall 2019, all of 2020, 2021, and 2022.
 
-
-[University of Washington]: https://www.washington.edu/
+University of Washington Official Website: https://www.washington.edu/
